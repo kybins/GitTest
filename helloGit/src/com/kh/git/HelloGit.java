@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("안녕, Git!");
 		
 		System.out.println("test 14:48");
+		System.out.println("test 14:50");
 
 	}
 
