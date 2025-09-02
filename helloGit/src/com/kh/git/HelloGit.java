@@ -10,6 +10,8 @@ public class HelloGit {
 		System.out.println("test 14:50");
 		System.out.println("test 14:51");
 
+		System.out.println("test 2025-09-02 14:51");
+
 	}
 
 }
